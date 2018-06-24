@@ -1,0 +1,12 @@
+1.  A header file in C that allows you to write more portable code because it specifies exact width integers
+2.  To get the exact amount of bits you need that can be compatible across different platforms
+3.  1, 4, 4, 2
+4.  hex: 0x424d; ascii: BM
+5.  bfSize = The size, in bytes, of the bitmap file. biSize = The number of bytes required by the structure.
+6.  the bitmap starts at top left corner
+7.  biBitCount
+8.  if it cannot create file to write to
+9.  reading file one struct at a time
+10. 3
+11. changes pointer
+12. the current position indicator in a file

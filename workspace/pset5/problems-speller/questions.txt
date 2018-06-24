@@ -1,0 +1,7 @@
+0.  a lung disease caused by inhaling very fine ash and sand dust
+1.  Returns how fast the usage of the program is
+2.  16
+3.  no magic numbers incase it would be changed. Also it is better to pass structs in functions by reference instead of numbers.
+4.  Main iterates through the "text file" that the user inputed, and goes down the tree of characters, only allowing alphabetical and non numerical characters. It increments by one character until end of file is reached.
+5.  To take nubmers into account so we can tell if the input is invalid or not.
+6.  Because length and dictionary are declared by a #.
